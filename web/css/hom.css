@@ -1,0 +1,37 @@
+
+
+body{
+	background-image: url("../im/img.jpg"); /* The image used */
+  height: 700px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+
+  background-size: cover; 
+}
+
+*{
+
+	margin: 0;
+	padding: 0;
+
+}
+
+.main h1{
+	padding: 20px 70px;
+	font-size: 100px;
+} 
+
+.cust button {
+	padding: 10px 90px;
+	margin-left: 150px;
+	margin-top: 150px;
+ background-color:   black; /* Green */
+  border: none;
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;	
+
+
+}
